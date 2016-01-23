@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.okason.prontosalon.clients.ClientListFragment">
+    tools:context="com.okason.prontosalon.clientlist.ClientListFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

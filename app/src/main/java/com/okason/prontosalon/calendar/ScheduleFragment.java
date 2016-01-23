@@ -1,4 +1,4 @@
-package com.okason.prontosalon.clients;
+package com.okason.prontosalon.calendar;
 
 
 import android.os.Bundle;
@@ -12,11 +12,15 @@ import com.okason.prontosalon.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class AddNewClientFragment extends Fragment {
+public class ScheduleFragment extends Fragment {
 
 
-    public AddNewClientFragment() {
+    public ScheduleFragment() {
         // Required empty public constructor
+    }
+
+    public static ScheduleFragment newInstance() {
+        return new ScheduleFragment();
     }
 
 
@@ -24,7 +28,8 @@ public class AddNewClientFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_add_new_client, container, false);
+        return inflater.inflate(R.layout.fragment_schedule, container, false);
     }
+
 
 }
