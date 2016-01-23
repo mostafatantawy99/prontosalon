@@ -12,5 +12,8 @@
     <string name="material_icon_email">&#xe99c;</string>
     <string name="material_icon_chat">&#xe801;</string>
     <string name="material_icon_phone">&#xe802;</string>
+    <string name="material_icon_like">&#xeb03;</string>
+    <string name="material_icon_favorite">&#xe9b6;</string>
+    <string name="material_icon_share">&#xeac0;</string>
     <string name="title_activity_client_list">ClientListActivity</string>
 </resources>

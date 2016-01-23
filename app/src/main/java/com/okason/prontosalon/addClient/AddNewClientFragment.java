@@ -1,4 +1,4 @@
-package com.okason.prontosalon.clientlist;
+package com.okason.prontosalon.addClient;
 
 
 import android.os.Bundle;
