@@ -4,13 +4,16 @@
     xmlns:app="http://schemas.android.com/apk/res/com.okason.prontosalon"
     android:layout_width="match_parent"
     android:layout_height="240dp"
+    android:layout_marginTop="@dimen/activity_vertical_margin"
+    android:layout_marginLeft="@dimen/margin_padding_small"
+    android:layout_marginRight="@dimen/margin_padding_small"
     android:orientation="horizontal" >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:background="@drawable/google_card_media_background" >
+        android:background="@drawable/client_list_background" >
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -19,7 +22,7 @@
             android:layout_weight="1" >
 
             <ImageView
-                android:id="@+id/list_item_google_cards_media_image"
+                android:id="@+id/client_image"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:contentDescription="@string/cd_main_image"
@@ -28,7 +31,7 @@
             <View
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#80b62025" />
+                 />
         </RelativeLayout>
 
         <LinearLayout
@@ -39,7 +42,7 @@
             android:padding="8dp" >
 
             <com.okason.prontosalon.util.RobotoTextView
-                android:id="@+id/list_item_google_cards_media_artist_name"
+                android:id="@+id/text_view_client_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingBottom="10dp"
@@ -54,18 +57,19 @@
                 android:layout_height="wrap_content" >
 
                 <com.okason.prontosalon.util.RobotoTextView
+                    android:id="@+id/text_view_last_seen"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Birth year: "
+                    android:text="Last seen: "
                     android:textColor="@android:color/white"
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
 
                 <com.okason.prontosalon.util.RobotoTextView
-                    android:id="@+id/list_item_google_cards_media_year"
+                    android:id="@+id/text_view_blank_for_now"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="1984"
+                    android:text=""
                     android:textColor="@android:color/white"
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
@@ -76,18 +80,19 @@
                 android:layout_height="wrap_content" >
 
                 <com.okason.prontosalon.util.RobotoTextView
+                    android:id="@+id/text_view_last_appointment"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Country: "
+                    android:text=""
                     android:textColor="@android:color/white"
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
 
                 <com.okason.prontosalon.util.RobotoTextView
-                    android:id="@+id/list_item_google_cards_media_country"
+                    android:id="@+id/text_view_blank_for_now2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Germany"
+                    android:text=""
                     android:textColor="@android:color/white"
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
@@ -95,7 +100,7 @@
             </LinearLayout>
 
             <com.okason.prontosalon.util.RobotoTextView
-                android:id="@+id/list_item_google_cards_media_text"
+                android:id="@+id/text_view_comment"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:maxLines="3"
@@ -111,34 +116,34 @@
                 android:gravity="right|bottom"
                 android:layout_gravity="right|bottom" >
 
-                <com.csform.android.uiapptemplate.font.MaterialDesignIconsTextView
+                <com.okason.prontosalon.util.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_like"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="0dp"
                     android:padding="8dp"
-                    android:text="@string/material_icon_chat"
+                    android:text="@string/material_icon_like"
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
 
-                <com.csform.android.uiapptemplate.font.MaterialDesignIconsTextView
+                <com.okason.prontosalon.util.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_favorite"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
                     android:padding="8dp"
-                    android:text="@string/material_icon_phone"
+                    android:text="@string/material_icon_favorite"
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
 
-                <com.csform.android.uiapptemplate.font.MaterialDesignIconsTextView
+                <com.okason.prontosalon.util.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_share"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="0dp"
                     android:padding="8dp"
-                    android:text="@string/material_icon_email"
+                    android:text="@string/material_icon_share"
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
             </LinearLayout>

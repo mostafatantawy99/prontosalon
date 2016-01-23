@@ -19,7 +19,7 @@ public class InMemoryClientData {
         Client client1 = new Client(ClientUtils.getNetId());
         client1.setName("Debbie Sam");
         client1.setEmail("deb@email.net");
-        client1.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/client1.JPG");
+        client1.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/guest1.JPG");
         Calendar calendar2 = GregorianCalendar.getInstance();
         calendar2.add(Calendar.DAY_OF_WEEK, 1);
         calendar2.add(Calendar.MILLISECOND, 10005623);
@@ -32,7 +32,7 @@ public class InMemoryClientData {
         Client client2 = new Client(ClientUtils.getNetId());
         client2.setName("Keisha Williams");
         client2.setEmail("diva@comcast.com");
-        client2.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/client2.JPG");
+        client2.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/guest2.JPG");
         Calendar calendar3 = GregorianCalendar.getInstance();
         calendar3.add(Calendar.DAY_OF_WEEK, 2);
         calendar3.add(Calendar.MILLISECOND, 8962422);
@@ -45,7 +45,7 @@ public class InMemoryClientData {
         Client client3 = new Client(ClientUtils.getNetId());
         client3.setName("Gregg McQuire");
         client3.setEmail("emailing@nobody.com");
-        client3.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/client3.JPG");
+        client3.setImagePath("https://dl.dropboxusercontent.com/u/15447938/attendanceapp/guest3.JPG");
         Calendar calendar4 = GregorianCalendar.getInstance();
         calendar4.add(Calendar.DAY_OF_WEEK, 4);
         calendar4.add(Calendar.MILLISECOND, 49762311);

@@ -9,6 +9,7 @@ import com.okason.prontosalon.util.Constants;
 
 public class ClientListActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

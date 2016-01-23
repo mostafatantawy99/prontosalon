@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:background="@drawable/google_card_media_background" >
+        android:background="@drawable/client_list_background" >
 
         <RelativeLayout
             android:layout_width="match_parent"
