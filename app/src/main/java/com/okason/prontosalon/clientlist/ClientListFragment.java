@@ -60,7 +60,7 @@ public class ClientListFragment extends Fragment {
     private void setupRecyclerView() {
         mRecyclerView.setHasFixedSize(true);
         RecyclerView.LayoutManager mLayoutManager;
-        mRecyclerView.setBackgroundResource(R.drawable.background_client_list);
+        mRecyclerView.setBackgroundResource(R.drawable.background_client_list_hair);
 
         mLayoutManager = new LinearLayoutManager(getContext());
         mRecyclerView.setLayoutManager(mLayoutManager);

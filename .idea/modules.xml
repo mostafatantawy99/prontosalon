@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProntoSalon.iml" filepath="$PROJECT_DIR$/ProntoSalon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syncfusion.SfSchedule.Android/Syncfusion.SfSchedule.Android.iml" filepath="$PROJECT_DIR$/Syncfusion.SfSchedule.Android/Syncfusion.SfSchedule.Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
