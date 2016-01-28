@@ -1,1 +1,1 @@
-include ':app', ':Syncfusion.SfSchedule.Android'
+include ':app', ':Syncfusion.SfSchedule.Android', ':Syncfusion.SfCalendar.Android'

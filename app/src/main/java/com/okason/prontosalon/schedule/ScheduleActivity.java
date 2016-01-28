@@ -25,6 +25,7 @@ public class ScheduleActivity extends AppCompatActivity {
         SfSchedule schedule = new SfSchedule(this);
         schedule.setScheduleView(ScheduleView.WeekView);
 
+
         mAppointmentCollection = new ScheduleAppointmentCollection();
 
         //Create new appointment
