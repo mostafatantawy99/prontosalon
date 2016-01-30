@@ -16,4 +16,6 @@
     <string name="material_icon_favorite">&#xe9b6;</string>
     <string name="material_icon_share">&#xeac0;</string>
     <string name="title_activity_client_list">ClientListActivity</string>
+    <string name="title_activity_appointment">AppointmentActivity</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
 </resources>

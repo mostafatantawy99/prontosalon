@@ -13,6 +13,7 @@ import com.okason.prontosalon.R;
  * A simple {@link Fragment} subclass.
  */
 public class CreateAppointmentDialogFragment extends Fragment {
+    private View mRootView;
 
 
     public CreateAppointmentDialogFragment() {
@@ -20,11 +21,21 @@ public class CreateAppointmentDialogFragment extends Fragment {
     }
 
 
+    public static CreateAppointmentDialogFragment newInstance(){
+        CreateAppointmentDialogFragment fragment = new CreateAppointmentDialogFragment();
+
+
+        return fragment;
+    }
+
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_create_appointment_dialog, container, false);
+        mRootView = inflater.inflate(R.layout.fragment_create_appointment_dialog, container, false);
+
+        return mRootView;
     }
 
 }

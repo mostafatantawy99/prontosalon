@@ -10,7 +10,7 @@ import com.mikepenz.materialdrawer.AccountHeader;
 import com.mikepenz.materialdrawer.AccountHeaderBuilder;
 import com.mikepenz.materialdrawer.Drawer;
 import com.okason.prontosalon.R;
-import com.okason.prontosalon.calendar.ScheduleFragment;
+import com.okason.prontosalon.schedule.ScheduleFragment;
 import com.okason.prontosalon.clientlist.ClientListStateFragment;
 
 public class MainActivity extends AppCompatActivity {
