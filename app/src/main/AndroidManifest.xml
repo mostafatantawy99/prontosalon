@@ -9,6 +9,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:name=".core.ProntoSalonApplication"
         android:theme="@style/AppTheme">
         <activity
             android:name=".core.MainActivity"
