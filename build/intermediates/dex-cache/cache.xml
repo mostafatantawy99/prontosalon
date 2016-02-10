@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.8_0b5267a16169c139c3432ddf97e406b16e7eed07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\ProntoSalon\Syncfusion.SfSchedule.Android\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5f7269c4b4dde32be7a538ea760801010c07d9bc">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\ProntoSalon-Syncfusion.SfSchedule.Android-unspecified_4ee80d4a6096947b1acd88c771c676efea73673a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_7aadcf8ce20e84895b7fe321f057237ce2938b92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_fd62d1aeebf87c3d78095188848f94ae2d0f06e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.4.1_4030d5b1a04c1ef078361b785d2c0bc73b53aa60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.1_5f671ff1e36fdbdcb83df6f59b2ee4dbeeaa51c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.6.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25c8422fe5a0acee6cee4f7e52449c2802f6ca19">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialdrawer-4.6.4_99fcf3f59afc922c08a934a1aacbed4d88851718.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_4d4f834ad1d19755a5f3d13148d6d60c46519b45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_53737245708c3d20f8f377218d8ad0322a252a9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_4b9f087eebee84ceab56dd7caf2ca60fd2741538.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.10_a1c6a66738935505b6bd523bf37b711800282507.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.mikepenz-fontawesome-typeface-4.4.0.1_c79890c34bc980c20325bc2e9c5ce2b05afe4f82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_d44be2150efc7e097a7d5093ef5894e8e0b66441.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\otto-1.3.8_bd6679f2e2d0ff380a9ac147451ff96efc577e6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_5bc024399b4a52aad75914d1f14c7ed99f60bf8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.4.1_c0d3fde83cfceb407628fa6fb3bb8d06d5ab6799.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_5cb7fb2a67cdf33150edada4f2c97cbd293375fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_36033774e006d003027231912df2ae03cebcac3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.6_2b5fd328d68c89d749697d8fe6f559078f600d9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_e0ea7240073ce2ecfd4318bde708236b82c96072.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_7ae8bd12f1578f66d7631fcd9052bb2ed808b6f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.87.4\97d167507fcf75bc96d2123af0f3b1b5614ca3b7\realm-android-0.87.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\realm-android-0.87.4_de73b114d472854162753e411219e4007acf9174.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test\testing-support-lib\0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-testing-support-lib-0.1_ad4b6c17a1806a946cc89f069e3183e8db442912.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.4.1_4d04d3e832bcc02b8f688c43d565d32f2b6cbed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.5.5_f0491338a463f16d5281ce01b6fa0d5366c70588.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_f743d69dab101eb1d37eceed90d22054301ac1fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dcacf665e5536c0da76732c56bae2ae1e202d5da">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.4_4daca5ff44166db2b20da9e5037d59c07d926951.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\gson-2.5_3dc85c8832405225fa7e0136838893841c77e97d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.1.4_bdfe230df950f852f6ad31f73f74bc3648a8d112.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_4c4a49ee24ab147bb39c403095ef2fe37d1ff91c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_d00b4aa3a97d61774fddb085a7e5d2dd3acb0509.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\junit\junit-dep\4.10\64417b3bafdecd366afa514bd5beeae6c1f85ece\junit-dep-4.10.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\junit-dep-4.10_a4e42381686136b887d03a7979c4293b6fc0b189.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.1_23588cfa44aac33d24f583925bcdabb5379dfbb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_e69ca4539896372abf1639e94fa7c18dc6f6149c.jar" />
+    </item>
+    <item
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_a1b34f18ea1c50292c9aed6aebfbe7ac60c666db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\ProntoSalon\Syncfusion.SfCalendar.Android\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b67241c495480034e145cd2e55400d1a6a8af57c">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\ProntoSalon-Syncfusion.SfCalendar.Android-unspecified_cbaffdec6b29258f71709d631ac901cb0e7f84b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_bce51fc777776447c52ab88ddb1cab1ba4a2585b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25e8af11fff99ad02250f52f2436e25f60cc1bbe">
+        <dex dex="C:\Users\Valentine\Dropbox\WorkFiles\Android\Apps\Android_Studio\ProntoSalon\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialize-0.5.1_7a9a24894c9d0320f31bb0fec4514e1c48e093bc.jar" />
+    </item>
+
+</items>
