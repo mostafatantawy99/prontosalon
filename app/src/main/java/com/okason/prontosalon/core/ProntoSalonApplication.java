@@ -3,6 +3,8 @@ package com.okason.prontosalon.core;
 import android.app.Application;
 
 import com.squareup.otto.Bus;
+import com.crashlytics.android.Crashlytics;
+import io.fabric.sdk.android.Fabric;
 
 /**
  * Created by Valentine on 1/10/2016.
@@ -22,6 +24,7 @@ public class ProntoSalonApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        Fabric.with(this, new Crashlytics());
         instance.bus = new Bus();
     }
 
